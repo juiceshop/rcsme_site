@@ -5,7 +5,7 @@ tagline:
 description: Startseite
 ---
 
-<img src="Staudemeyer350x285.png" alt="R.C.Staudemeyer" align="right">
+<img src="staudemeyer350x285.png" alt="R.C.Staudemeyer" align="right">
 Professor for IT-Security at the Faculty of Computer Science of the [Schmalkalden University of Applied Sciences](http://hs-sm.de/) in Germany
 
 Ph.D. in Computer Science and a German Diploma (Diplom-Informatiker)
