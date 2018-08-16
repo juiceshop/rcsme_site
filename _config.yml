@@ -8,16 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Prof. Ralf C. Staudemeyer
 author :
-  name : Karl Broman
+  name : Ralf C. Staudemeyer
   email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  github : rcstaudemeyer
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : https://juiceshop.github.io/rcsme_site
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
