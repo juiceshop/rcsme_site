@@ -19,3 +19,5 @@ Expert in
 Lecturer at several academic institutions in Germany, South Africa and the Fiji Islands. 
 
 Recipient of various research fellowships and supported EU research projects as a coordinator, work-package leader and researcher, and author of more than 30 publications.
+
+<a href="staudemeyer350x285.png">Linktest</a>
